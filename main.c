@@ -105,7 +105,7 @@ int main() {
   printf(
       "║                    Gracias por usar el sistema                   ║\n");
   printf(
-      "║                  La Búsqueda de Sísifo - 2025                   ║\n");
+      "║                  La Búsqueda de Sísifo - 2025                    ║\n");
   printf(
       "╚══════════════════════════════════════════════════════════════════╝\n");
   printf("\n");

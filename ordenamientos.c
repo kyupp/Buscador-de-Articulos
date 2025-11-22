@@ -109,10 +109,6 @@ Articulo **ordenar_por_tamanio_titulo(Articulo *articulos, int cantidad,
   return resultado;
 }
 
-// ============================================================================
-// HEAPSORT DIRECTO (alternativa más eficiente)
-// ============================================================================
-
 /**
  * Heapify para ordenamiento por título
  */
