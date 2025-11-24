@@ -18,7 +18,7 @@ void mostrar_menu_principal() {
   printf(
       "║              SISTEMA DE GESTIÓN DE ARTÍCULOS                     ║\n");
   printf(
-      "║           La Búsqueda de Sísifo - Corrupción en AL              ║\n");
+      "║           La Búsqueda de Sísifo - Corrupción en AL               ║\n");
   printf(
       "╚══════════════════════════════════════════════════════════════════╝\n");
   printf("\n");
